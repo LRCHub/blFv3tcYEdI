@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "structure",
+  "base_artist": "岸田教団&THE明星ロケッツ",
+  "createdAt": "2025-12-19T06:26:07.561886Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Elevated Structure of Terror",
+      "artist": "Terry Scott Taylor",
+      "has_synced": false,
+      "path": "select/01_Elevated_Structure_of_Terror_Terry_Scott_Taylor.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Structure Violence (Azzes)",
+      "artist": "Sepultura",
+      "has_synced": true,
+      "path": "select/02_Structure_Violence_(Azzes)_Sepultura.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Teen Riot Structure",
+      "artist": "T. Rex",
+      "has_synced": true,
+      "path": "select/03_Teen_Riot_Structure_T._Rex.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Structure",
+      "artist": "Innerpartysystem",
+      "has_synced": false,
+      "path": "select/04_Structure_Innerpartysystem.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Structure of Souls",
+      "artist": "Extol",
+      "has_synced": true,
+      "path": "select/05_A_Structure_of_Souls_Extol.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Structure Divine",
+      "artist": "Soilwork",
+      "has_synced": true,
+      "path": "select/06_Structure_Divine_Soilwork.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bone Structure",
+      "artist": "Ron Pope",
+      "has_synced": true,
+      "path": "select/07_Bone_Structure_Ron_Pope.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mega Structure",
+      "artist": "Damaged Bug",
+      "has_synced": false,
+      "path": "select/08_Mega_Structure_Damaged_Bug.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sun Structure (Beyond The Wizard's Sleeve Reanimation)",
+      "artist": "Temples",
+      "has_synced": false,
+      "path": "select/09_Sun_Structure_(Beyond_The_Wizard's_Sleeve_Reanimation)_Temples.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Structure",
+      "artist": "Water From Your Eyes",
+      "has_synced": true,
+      "path": "select/10_Structure_Water_From_Your_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Responsibility And Structure",
+      "artist": "Trophy Eyes",
+      "has_synced": true,
+      "path": "select/11_Responsibility_And_Structure_Trophy_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Structure",
+      "artist": "Raleigh Ritchie",
+      "has_synced": true,
+      "path": "select/12_Structure_Raleigh_Ritchie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "structure",
+      "artist": "岸田教団 & The 明星ロケッツ",
+      "has_synced": false,
+      "path": "select/pl_01_structure_岸田教団_&_The_明星ロケッツ.txt"
+    }
+  ]
+}
